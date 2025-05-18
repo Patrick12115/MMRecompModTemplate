@@ -5,21 +5,21 @@
 
 # Unique ID of this mod. Pick something long enough that it'll never be the same as any other mod.
 # The name displayed in the mod management menu is separate from this so this doesn't need to be human readable.
-id = "Pat_Quick_Putaway"
+id = "Pat_Mute_Carpenter_Sfx"
 
 # Version of this mod.
 version = "1.0.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
-display_name = "Quick Putaway"
+display_name = "Mute Carpenter Sfx"
 
 # The description that will show up when this mod is displayed in the mod menu. This should be human readable.
 description =  """
-Allows Link to instantly puts away held item without waiting."""
+Allows you to mute the Carpenter's construction Sfx in Clock Town that comes from the tower being built in South Clock Town."""
 
 # A short description that will show up in this mod's entry in the mod list. This should be human readable and kept short
 # to prevent it from being cut off due to the limited space.
-short_description = "Instantly putaway held items"
+short_description = "Mutes Carpenter construction Sfx"
 
 # Authors of this mod.
 authors = [ "ItsHeckinPat" ]
@@ -49,7 +49,7 @@ native_libraries = [
 elf_path = "build/mod.elf"
 
 # Output mod filename.
-mod_filename = "Pat_Quick_Putaway"
+mod_filename = "Pat_Mute_Carpenter_Sfx"
 
 # Reference symbol files.
 func_reference_syms_file = "Zelda64RecompSyms/mm.us.rev1.syms.toml"
@@ -57,5 +57,3 @@ data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zel
 
 # Additional files to include in the mod.
 additional_files = [ "thumb.png" ]
-
-

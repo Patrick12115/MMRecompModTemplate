@@ -9,6 +9,7 @@
 #include "overlays/gamestates/ovl_file_choose/z_file_select.h"
 #include "overlays/kaleido_scope/ovl_kaleido_scope/z_kaleido_scope.h"
 #include "overlays/actors/ovl_Arms_Hook/z_arms_hook.h"
+#include "overlays/actors/ovl_Obj_Sound/z_obj_sound.h"
 
 // This file just houses any externs I need throughout my mods that aren't available in headers already
 

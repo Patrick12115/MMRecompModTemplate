@@ -1,3 +1,3 @@
-# Fast Deku Flower Launch
+# Mute Carpenter Sfx's
 
-Speeds up the time it takes to be able to get maximum height from launching out of a deku flower after burrowing.
+Allows you to mute the Construction Sfx in Clock Town that comes from the tower being built in South Clock Town.
