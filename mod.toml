@@ -5,21 +5,21 @@
 
 # Unique ID of this mod. Pick something long enough that it'll never be the same as any other mod.
 # The name displayed in the mod management menu is separate from this so this doesn't need to be human readable.
-id = "Pat_FastFlowerLaunch"
+id = "Pat_Quick_Putaway"
 
 # Version of this mod.
 version = "1.0.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
-display_name = "Fast Deku Flower Launch"
+display_name = "Quick Putaway"
 
 # The description that will show up when this mod is displayed in the mod menu. This should be human readable.
 description =  """
-Speeds up the time it takes to be able to get maximum height from launching out of a deku flower after burrowing."""
+Allows Link to instantly puts away held item without waiting."""
 
 # A short description that will show up in this mod's entry in the mod list. This should be human readable and kept short
 # to prevent it from being cut off due to the limited space.
-short_description = "Launch at max height immediately after burrowing"
+short_description = "Instantly putaway held items"
 
 # Authors of this mod.
 authors = [ "ItsHeckinPat" ]
@@ -49,7 +49,7 @@ native_libraries = [
 elf_path = "build/mod.elf"
 
 # Output mod filename.
-mod_filename = "Pat_FastFlowerLaunch"
+mod_filename = "Pat_Quick_Putaway"
 
 # Reference symbol files.
 func_reference_syms_file = "Zelda64RecompSyms/mm.us.rev1.syms.toml"
